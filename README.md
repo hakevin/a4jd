@@ -5,4 +5,6 @@ Backend code (Java/Spring boot): https://github.com/bertjan/a4jd-demo-backend
 Frontend code (Angular): https://github.com/bertjan/a4jd-demo-app  
 
 
-How to connect frontend/backend
+How to connect frontend/backend:
+
+https://www.sitepoint.com/angular-rxjs-create-api-service-rest-backend/
